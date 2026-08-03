@@ -6,6 +6,15 @@
 
 > 分类规范：`研究检索` / `教学辅导` / `开发工具` 三类，标签拼写需与此表完全一致。
 
+---
+
+## Reference
+本技能库基于 Inno Agent 框架构建，相关项目资源：
+- Inno Agent 主项目（郝老师）：https://github.com/hhyqhh/inno-agent
+- Inno Agent Hub 资源仓库：https://github.com/Chloris-Blaxk/inno-agent-hub.git
+
+---
+
 ## Skill 清单
 
 ### 研究检索（11 个）
