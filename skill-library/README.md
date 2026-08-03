@@ -2,7 +2,7 @@
 
 人文与社会科学研究技能库 — 面向教育研究、社会科学与学术写作的可迁移 Skill 集合。
 
-每个 Skill 为独立目录，包含 `SKILL.md`（YAML frontmatter：`name` / `category` / `description`），可直接打包为 `.zip` 上传到支持 Skill 的 Agent 平台（如 Inno Agent、OpenAgentHarness 等）。
+每个 Skill 为独立目录，包含 `SKILL.md`（YAML frontmatter：`name` / `category` / `description`），可直接打包为 `.zip` 上传到支持 Skill 的 Agent 平台（如 Inno Agent等）。
 
 > 分类规范：`研究检索` / `教学辅导` / `开发工具` 三类，标签拼写需与此表完全一致。
 
@@ -67,7 +67,6 @@
 
 ## 许可与来源 / License & Credits
 
-本库下 30 个 Skill 的 **内容均为原创**，源自 [OpenAgentHarness](https://github.com/openagentharness) 生态中的教育研究技能包与学者蒸馏技能。未复制任何第三方 Skill 库内容。
 
 - **许可**：本仓库声明采用 [MIT License](../../LICENSE)（README 徽标声明；仓库暂未提交独立 LICENSE 文件，如需正式开源请补充）。
 - **第三方工具引用**：部分 Skill 在工作流中调用或参考了外部工具/API（STORM、OpenAlex、Semantic Scholar、Scite、PRISMA 等），这些工具本身有各自的许可条款，且**不包含**在本 Skill 包内。
