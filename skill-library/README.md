@@ -62,3 +62,13 @@
 2. 在目标 Agent 平台上传该 `.zip`，即可按 `category` 归类使用。
 3. 统计/建模类 Skill 依赖 Python（pandas / scipy / statsmodels / R 等），按需安装。
 4. 检索类 Skill 使用 OpenAlex、Semantic Scholar 等开放学术接口，无需 API Key 即可使用（有 Key 效果更佳）。
+
+---
+
+## 许可与来源 / License & Credits
+
+本库下 30 个 Skill 的 **内容均为原创**，源自 [OpenAgentHarness](https://github.com/openagentharness) 生态中的教育研究技能包与学者蒸馏技能。未复制任何第三方 Skill 库内容。
+
+- **许可**：本仓库声明采用 [MIT License](../../LICENSE)（README 徽标声明；仓库暂未提交独立 LICENSE 文件，如需正式开源请补充）。
+- **第三方工具引用**：部分 Skill 在工作流中调用或参考了外部工具/API（STORM、OpenAlex、Semantic Scholar、Scite、PRISMA 等），这些工具本身有各自的许可条款，且**不包含**在本 Skill 包内。
+- **完整明细**：参见 [CREDITS.md](./CREDITS.md)。
