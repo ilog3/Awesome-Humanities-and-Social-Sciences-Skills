@@ -9,8 +9,8 @@
 ---
 
 ## Reference
-本技能库基于 Inno Agent 框架构建，相关项目资源：
-- Inno Agent 主项目（郝老师）：https://github.com/hhyqhh/inno-agent
+本技能库同步发布 Inno Agent，相关项目资源：
+- Inno Agent 主项目：https://github.com/hhyqhh/inno-agent
 - Inno Agent Hub 资源仓库：https://github.com/Chloris-Blaxk/inno-agent-hub.git
 
 ---
