@@ -23,8 +23,9 @@
   - [文献管理与笔记知识库](#文献管理与笔记知识库)
   - [Markdown, Quarto & LaTeX 学术写作](#markdown-quarto--latex-学术写作)
   - [版本控制与可重复研究](#版本控制与可重复研究)
-- [5. 学习资源与教程 / Tutorials & Handbooks](#5-学习资源与教程--tutorials--handbooks)
-- [6. 贡献指南 / Contributing](#6-贡献指南--contributing)
+- [5. Skill 技能库 / Skill Library](#5-skill-技能库--skill-library)
+- [6. 学习资源与教程 / Tutorials & Handbooks](#6-学习资源与教程--tutorials--handbooks)
+- [7. 贡献指南 / Contributing](#7-贡献指南--contributing)
 
 ---
 
@@ -82,7 +83,23 @@
 
 ---
 
-## 5. 学习资源与教程 / Tutorials & Handbooks
+## 5. Skill 技能库 / Skill Library
+
+本仓库同时收录了**可直接迁移到 Agent 平台的 Skill 技能包**，存放于 [`skill-library/`](./skill-library/) 目录。
+
+每个 Skill 为独立目录，包含 `SKILL.md`（YAML frontmatter：`name` / `category` / `description`），可直接打包为 `.zip` 上传到支持 Skill 的 Agent 平台（如 Inno Agent、OpenAgentHarness 等）。完整清单见 [`skill-library/README.md`](./skill-library/README.md)。
+
+**三大分类概览：**
+
+| 分类 | 数量 | 说明 |
+|---|---|---|
+| 研究检索 | 11 | 文献综述、证据校验、元分析、选题拆解、学者蒸馏等 |
+| 教学辅导 | 10 | 研究设计（量化/质性/混合）、问卷开发、行动研究等 |
+| 开发工具 | 9 | 数据清洗、描述/推断统计、信效度分析、质性编码等 |
+
+---
+
+## 6. 学习资源与教程 / Tutorials & Handbooks
 
 * [Programming Historian](https://github.com/programminghistorian) - 享誉全球的数字人文与历史计算方法开源教学项目（提供多语言教程）。
 * [Awesome Digital Humanities](https://github.com/mdeiters/awesome-digital-humanities) - 数字人文领域核心资源、数据集与工具精选列表。
@@ -90,7 +107,7 @@
 
 ---
 
-## 6. 贡献指南 / Contributing
+## 7. 贡献指南 / Contributing
 
 欢迎对本仓库进行补充和完善！如果你发现了优秀的工具、库或教程，请随时提交 Pull Request 或发起 Issue：
 
