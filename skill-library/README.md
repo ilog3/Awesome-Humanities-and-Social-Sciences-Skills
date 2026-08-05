@@ -9,7 +9,7 @@
 ---
 
 ## Reference
-本技能库同步发布 Inno Agent，相关项目资源：
+本技能库同步发布 【至Inno Agent项目】，相关项目资源：
 - Inno Agent 主项目：https://github.com/hhyqhh/inno-agent
 - Inno Agent Hub 资源仓库：https://github.com/Chloris-Blaxk/inno-agent-hub.git
 
