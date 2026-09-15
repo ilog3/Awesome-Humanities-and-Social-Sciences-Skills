@@ -1,0 +1,4 @@
+interface:
+  display_name: "陆有铨二十世纪教育史"
+  short_description: "以思想流派、改革浪潮和社会背景比较分析二十世纪教育变迁"
+  default_prompt: "使用 $lu-youquan-twentieth-century-education-history 对这个教育思想、改革或历史问题进行比较分析。"

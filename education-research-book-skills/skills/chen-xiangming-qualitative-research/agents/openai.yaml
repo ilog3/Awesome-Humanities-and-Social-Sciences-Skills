@@ -1,0 +1,4 @@
+interface:
+  display_name: "陈向明质的研究方法"
+  short_description: "以反思性互动设计完成严谨质性社会科学研究的全流程指导"
+  default_prompt: "使用 $chen-xiangming-qualitative-research 设计、实施、分析或评估这项质性研究。"

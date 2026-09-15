@@ -1,0 +1,4 @@
+interface:
+  display_name: "杨宝忠家庭教育系统观"
+  short_description: "从家庭—学校—社会协同、功能、目标、方法和学习型家庭分析家庭教育"
+  default_prompt: "使用 $yang-family-education-system 诊断或设计家庭教育方案，并同时考虑儿童发展、家庭关系、学校和社会环境。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "殷《案例研究：设计与方法》"
+  short_description: "用殷的框架界定案例、设计单多案例、收集证据、分析与报告"
+  default_prompt: "使用 $yin-case-study-research 设计或审查我的案例研究。"

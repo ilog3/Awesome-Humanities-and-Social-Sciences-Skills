@@ -1,0 +1,4 @@
+interface:
+  display_name: "现代中国教育家生命史"
+  short_description: "运用六位教育家生命故事理解二十世纪中国教育变迁与叙事研究"
+  default_prompt: "使用 $modern-china-educator-life-stories 从教育家生命史分析中国教育变迁。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "白芸《质的研究指导》"
+  short_description: "面向教师完成质性研究设计、访谈、观察、实物资料分析与报告写作"
+  default_prompt: "使用 $qualitative-research-guidance-baiyun 指导我的教育质性研究。"

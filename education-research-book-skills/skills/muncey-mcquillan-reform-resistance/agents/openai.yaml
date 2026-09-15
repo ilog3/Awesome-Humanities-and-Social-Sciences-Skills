@@ -1,0 +1,4 @@
+interface:
+  display_name: "学校改革与抗拒民族志"
+  short_description: "以八校长期民族志诊断改革理念、地方解释、政治博弈、课堂落实与抗拒"
+  default_prompt: "使用 $muncey-mcquillan-reform-resistance 分析一项学校改革如何在学校、课堂和领导实践中被解释、协商、推进或抗拒。"

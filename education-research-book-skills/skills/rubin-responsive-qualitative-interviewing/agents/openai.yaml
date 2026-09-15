@@ -1,0 +1,4 @@
+interface:
+  display_name: "鲁宾响应式质性访谈"
+  short_description: "以谈话伙伴、迭代设计、三类问题、持续分析与可信写作开展访谈"
+  default_prompt: "使用 $rubin-responsive-qualitative-interviewing 设计、实施或分析我的质性访谈。"

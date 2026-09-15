@@ -1,0 +1,4 @@
+interface:
+  display_name: "本尼迪克特《菊与刀》"
+  short_description: "以文化模式、等级秩序、恩义债务、耻感与社会化分析战时日本论述"
+  default_prompt: "使用 $benedict-chrysanthemum-sword 分析文化模式或历史材料，并明确《菊与刀》的战时语境、证据边界和争议。"

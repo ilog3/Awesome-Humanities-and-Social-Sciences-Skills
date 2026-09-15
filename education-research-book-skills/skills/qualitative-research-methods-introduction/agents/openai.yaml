@@ -1,0 +1,4 @@
+interface:
+  display_name: "质性研究方法导论"
+  short_description: "从范式、设计、抽样、观察访谈、分析、写作与质量检验开展质性研究"
+  default_prompt: "使用 $qualitative-research-methods-introduction 设计、实施或评估一项完整的质性研究。"

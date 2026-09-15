@@ -1,0 +1,4 @@
+interface:
+  display_name: "Creswell与Guetterman教育研究"
+  short_description: "按研究流程选择和评估八类定量定性混合与行动研究设计"
+  default_prompt: "使用 $creswell-guetterman-educational-research 规划、实施或评估这项教育研究。"

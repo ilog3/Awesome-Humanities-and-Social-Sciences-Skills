@@ -1,0 +1,4 @@
+interface:
+  display_name: "约翰逊与克里斯滕森教育研究"
+  short_description: "平等整合定量、定性与混合方法并系统检验研究结果有效性"
+  default_prompt: "使用 $johnson-christensen-education-research 设计或评估这项定量、定性或混合教育研究。"

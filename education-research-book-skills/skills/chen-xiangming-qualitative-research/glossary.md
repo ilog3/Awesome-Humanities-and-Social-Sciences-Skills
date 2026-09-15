@@ -1,0 +1,24 @@
+# Glossary
+
+- **Qualitative research:** Situated inquiry that studies meaning, experience, action, and process through relational generation and interpretation of rich material.
+- **Paradigm:** Linked assumptions about reality, knowledge, values, and legitimate inquiry.
+- **Methodology:** The logic connecting assumptions, questions, relations, methods, and claims.
+- **Interactive design:** A design in which components continually constrain and revise one another rather than forming a one-way sequence.
+- **Conceptual framework:** Provisional network of concepts and expected relations drawn from literature, theory, and experience.
+- **Purposive sampling:** Selection of information-rich cases for an explicit analytic purpose.
+- **Research relationship:** Social and power relation through which access, talk, action, interpretation, and representation become possible.
+- **Gatekeeper:** Actor able to enable or restrict field access but not to replace each participant's consent.
+- **Positionality:** Researcher's socially and historically located identity and standpoint.
+- **Reflexivity:** Disciplined investigation of how the researcher, relationships, assumptions, methods, and context shape the inquiry.
+- **Local concept:** Participant or field term that organizes meaning within the studied setting.
+- **Categorical analysis:** Comparison of material gathered under concepts or themes.
+- **Contextual analysis:** Interpretation that preserves temporal, relational, narrative, and case wholeness.
+- **Thick description:** Context-rich account connecting action, meaning, relation, and setting.
+- **Constant comparison:** Iterative comparison among incidents, codes, categories, cases, and emerging propositions.
+- **Theoretical sampling:** Selection of further material to develop, test, or delimit emerging concepts and relations.
+- **Research reactivity:** Change in data or events associated with research presence and interaction.
+- **Participant feedback:** Participant response to material or interpretation, treated as evidence rather than an automatic truth test.
+- **Internal inference:** Extension of evidence within the studied case or bounded setting.
+- **Transfer:** Reasoned relevance beyond the sample through contextual similarity, recognition, comparison, or theory.
+- **Reciprocity:** Fair, non-coercive return or benefit negotiated within a research relationship.
+- **Audit trail:** Records connecting design decisions, field activity, material, coding, interpretation, and revision.

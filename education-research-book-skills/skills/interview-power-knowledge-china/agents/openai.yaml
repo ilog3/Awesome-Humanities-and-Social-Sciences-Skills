@@ -1,0 +1,4 @@
+interface:
+  display_name: "深度访谈的权力／知识分析"
+  short_description: "反思汉语深度访谈、转录、本土概念与方法话语中的权力知识关系"
+  default_prompt: "使用 $interview-power-knowledge-china 反思一项深度访谈研究的方法假设、转录损失与权力／知识效应。"

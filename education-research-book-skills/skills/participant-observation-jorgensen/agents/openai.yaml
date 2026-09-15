@@ -1,0 +1,4 @@
+interface:
+  display_name: "乔金森参与观察法"
+  short_description: "设计并实施参与观察：问题、进入、角色、关系、资料、分析与退出"
+  default_prompt: "使用 $participant-observation-jorgensen 为我的研究设计一套参与观察方案。"

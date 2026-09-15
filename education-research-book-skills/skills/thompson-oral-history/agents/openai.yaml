@@ -1,0 +1,4 @@
+interface:
+  display_name: "汤普森口述史"
+  short_description: "用口头证据、记忆批判、项目设计、访谈归档与历史阐释开展口述史研究"
+  default_prompt: "使用 $thompson-oral-history 设计、实施或评析一项口述史研究，并明确证据、记忆、抽样、伦理、归档与阐释之间的关系。"
