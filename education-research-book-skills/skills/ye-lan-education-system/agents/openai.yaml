@@ -1,0 +1,4 @@
+interface:
+  display_name: "叶澜教育系统分析"
+  short_description: "从教育整体、社会系统、个体发展和双重功能分析教育问题"
+  default_prompt: "使用 $ye-lan-education-system 从系统层次、社会关系、个体发展与双重功能分析这个教育问题。"

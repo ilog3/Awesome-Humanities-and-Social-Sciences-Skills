@@ -1,0 +1,22 @@
+# Glossary
+
+- **Autobiographical beginnings** — the researcher's account of experiences that make the puzzle personally and methodologically significant (Ch 1, 4).
+- **Backward/forward** — inquiry movements across past, present, and future (Ch 3).
+- **Field** — ongoing experiential and relational settings entered by researcher and participants (Ch 4).
+- **Field text** — a situated, relationally composed record such as notes, conversations, letters, stories, photographs, or artifacts (Ch 5).
+- **Formalism** — privileging prior theory, certainty, and detached method over unfolding experience (Ch 2).
+- **Inward/outward** — movement between personal conditions and social-material relations (Ch 3).
+- **Living, telling, retelling, reliving** — the cycle through which stories are enacted, narrated, recomposed, and potentially lived differently (Ch 4).
+- **Narrative inquiry** — study of experience narratively, with narrative as both phenomenon and method (Ch 1).
+- **Narrative thread** — an interpretive line that travels across episodes, texts, times, relationships, and places (Ch 6).
+- **Narrative unity** — a provisional whole that makes a life or inquiry intelligible without claiming complete closure (Ch 6).
+- **Place** — specific physical, social, and institutional location in the three-dimensional space (Ch 3).
+- **Reductionism** — fragmenting experience into categories or behaviors that erase continuity and personhood (Ch 2).
+- **Research puzzle** — an experience-grounded uncertainty that guides inquiry and may evolve (Ch 6).
+- **Research text** — the composed account offered to scholarly or public audiences from field texts and interpretation (Ch 6–7).
+- **Signature** — the author's identifiable presence, style, and responsibility in a research text (Ch 7).
+- **Sociality** — personal conditions and social relations considered together (Ch 3).
+- **Temporality** — continuity and change across past, present, and future (Ch 3).
+- **Three-dimensional narrative inquiry space** — temporality, sociality, and place as the coordinates of inquiry (Ch 3).
+- **Voice** — the positioning, multiplicity, and audibility of researchers and participants in a text (Ch 7).
+- **Wakefulness** — continuing alertness to methodological and ethical tensions throughout inquiry (Ch 8).

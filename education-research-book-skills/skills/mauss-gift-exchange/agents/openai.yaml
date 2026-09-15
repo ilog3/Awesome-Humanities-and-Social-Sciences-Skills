@@ -1,0 +1,4 @@
+interface:
+  display_name: "莫斯《礼物》：交换与互惠"
+  short_description: "用总体呈献、三重义务、夸富宴与总体社会事实分析交换关系"
+  default_prompt: "使用 $mauss-gift-exchange 分析这个赠礼、互惠、义务或社会整合问题。"

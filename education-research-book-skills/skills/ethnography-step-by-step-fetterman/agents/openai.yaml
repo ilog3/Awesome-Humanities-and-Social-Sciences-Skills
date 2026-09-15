@@ -1,0 +1,4 @@
+interface:
+  display_name: "民族志：步步深入"
+  short_description: "按费特曼框架完成民族志概念、田野方法、工具、分析、写作与伦理"
+  default_prompt: "使用 $ethnography-step-by-step-fetterman 设计、审查或推进我的民族志研究。"

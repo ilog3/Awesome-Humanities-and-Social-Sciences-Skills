@@ -1,0 +1,4 @@
+interface:
+  display_name: "静悄悄的革命：学习共同体"
+  short_description: "运用佐藤学框架改革课堂教学、校内教研、课程与学习共同体"
+  default_prompt: "使用 $quiet-revolution-learning-community 诊断课堂或学校改革问题并提出渐进式方案。"

@@ -1,0 +1,21 @@
+# Glossary
+
+- **Grounded theory:** Methodology for developing an integrated conceptual explanation from systematic interaction with data.
+- **Concept:** Analytic name for a significant pattern, action, meaning, or process identified through comparison.
+- **Category:** Higher-level concept developed through properties, dimensions, conditions, actions, and consequences.
+- **Property:** Characteristic that defines or differentiates a category.
+- **Dimension:** Range along which a property varies.
+- **Constant comparison:** Comparing incidents, concepts, and categories to develop similarities, differences, and variation.
+- **Microanalysis:** Close examination of a small data segment using detailed questions and comparisons.
+- **Open coding:** Opening data to provisional concepts and category development.
+- **Axial coding:** Relating categories through conditions, actions/interactions, and consequences.
+- **Selective coding:** Integrating major categories around a central explanatory scheme.
+- **Memo:** Dated analytic record of concepts, comparisons, hypotheses, questions, and decisions.
+- **Diagram:** Visual representation used to test and integrate relations.
+- **Theoretical sampling:** Concept-directed collection that develops categories and tests relations.
+- **Saturation:** Category-specific point of diminishing analytic returns after relevant variation is developed.
+- **Condition:** Circumstance shaping action or interaction.
+- **Consequence:** Outcome of action or interaction, intended or unintended.
+- **Process:** Patterned action/interaction unfolding through time and changing conditions.
+- **Central category:** Integrative concept organizing the explanatory storyline.
+- **Theoretical sensitivity:** Capacity to notice and develop analytically significant features without forcing them.

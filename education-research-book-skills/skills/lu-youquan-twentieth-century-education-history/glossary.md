@@ -1,0 +1,23 @@
+# Glossary
+
+- **Educational thought:** Structured claims about person, society, knowledge, value, purpose, curriculum, teaching, and institutions.
+- **Progressivism:** Diverse reform tradition emphasizing experience, growth, activity, inquiry, and democratic life.
+- **Reconstructionism:** Tradition assigning education an active role in deliberate social and cultural reconstruction.
+- **Essentialism:** Tradition emphasizing common knowledge, disciplined study, effort, and educator authority.
+- **Perennialism:** Tradition emphasizing enduring questions, rational cultivation, and classic intellectual works.
+- **Analytic philosophy of education:** Clarification and testing of educational concepts, language, and arguments.
+- **Existentialist education:** Orientation emphasizing freedom, choice, responsibility, authenticity, and personal existence.
+- **Postmodern educational thought:** Critique of universal foundations and totalizing narratives, foregrounding discourse, power, difference, and plurality.
+- **Scientific/technical orientation:** Preference for scientific method, system, measurement, technical control, or efficient means; not synonymous with science itself.
+- **Humanistic orientation:** Preference for meaning, value, individuality, freedom, culture, or whole-person development; not automatically humane in practice.
+- **Reform configuration:** Historically specific combination of context, actors, ideas, policies, institutions, and practices.
+- **Periodization:** Historian's reasoned division of time into analytically meaningful periods.
+- **Policy borrowing:** Adoption of an educational idea or arrangement identified with another jurisdiction.
+- **Policy translation:** Transformation of a borrowed or central policy as actors interpret it within another context.
+- **Relative autonomy:** Education's inherited institutions, ideas, actors, and temporal rhythms that mediate external pressures.
+- **Lifelong education:** System-organizing principle connecting learning across the lifespan and across institutions and settings.
+- **Adult education:** Organized learning opportunities principally involving adults.
+- **Recurrent education:** Planned alternation of education with work or other life activity.
+- **Primary source:** Evidence produced during or directly connected to the historical setting studied.
+- **Presentism:** Judging or explaining the past solely through current categories and expectations.
+- **Distributional effect:** Unequal benefit, burden, access, voice, or harm across groups.

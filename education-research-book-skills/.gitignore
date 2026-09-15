@@ -1,0 +1,28 @@
+.DS_Store
+Thumbs.db
+
+# Local environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.cache/
+
+# Extraction and OCR intermediates
+work/
+source/
+sources/
+raw/
+full_text.txt
+metadata.json
+
+# Original book/document files must not be committed
+*.pdf
+*.epub
+*.mobi
+*.azw
+*.azw3
+*.doc
+*.docx
+*.rtf
+

@@ -1,0 +1,23 @@
+# Glossary
+
+- **Empirical research:** Inquiry grounded in systematically generated or examined evidence.
+- **Operational definition:** Rule connecting a concept or variable to observation or measurement.
+- **Hypothesis:** Testable predicted relation or difference.
+- **Internal validity:** Warrant for the explanation or causal conclusion within a study.
+- **External validity:** Warrant for applying a result across populations, settings, conditions, outcomes, or times.
+- **Construct validity:** Warrant that operations and interpretations represent the intended construct.
+- **Statistical-conclusion validity:** Warrant for statistical relations given design, data, model, assumptions, and power/precision.
+- **Reliability/precision:** Consistency or error of a measurement or procedure under stated conditions.
+- **Random selection:** Probability-based sampling operation supporting population inference.
+- **Random assignment:** Chance allocation to conditions supporting causal comparability.
+- **Confound:** Alternative factor inseparable from the focal contrast.
+- **Factorial design:** Experiment estimating effects of two or more factors and their interaction.
+- **Repeated-measures design:** Design in which the same units receive multiple conditions or measurements.
+- **Time series:** Ordered repeated observations used to examine level or trend changes.
+- **Single-case design:** Repeated within-unit design using phases to evaluate change.
+- **Ex post facto research:** Nonexperimental comparison involving pre-existing exposure or grouping.
+- **Ethnography:** Contextual, sustained study of cultural meaning and patterned social life.
+- **External criticism:** Historical evaluation of source authenticity and provenance.
+- **Internal criticism:** Historical evaluation of source meaning, competence, purpose, and credibility.
+- **Delphi method:** Anonymous iterative elicitation and feedback among a selected expert panel.
+- **Model:** Purposeful representation of elements, assumptions, and relations in a system or phenomenon.

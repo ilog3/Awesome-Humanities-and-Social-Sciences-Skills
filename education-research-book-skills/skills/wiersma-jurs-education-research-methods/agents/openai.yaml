@@ -1,0 +1,4 @@
+interface:
+  display_name: "维尔斯马与于尔斯教育研究方法"
+  short_description: "从问题和报告评价到定量定性设计与研究工具的系统研究流程"
+  default_prompt: "使用 $wiersma-jurs-education-research-methods 设计、报告或评价这项教育研究。"

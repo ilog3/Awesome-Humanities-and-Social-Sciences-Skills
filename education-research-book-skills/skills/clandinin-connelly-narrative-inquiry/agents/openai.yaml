@@ -1,0 +1,4 @@
+interface:
+  display_name: "克兰迪宁与康纳利：叙事探究"
+  short_description: "用三维叙事空间处理经验、现场关系、现场文本、研究文本与伦理"
+  default_prompt: "使用 $clandinin-connelly-narrative-inquiry 设计或分析我的叙事探究。"

@@ -1,0 +1,21 @@
+# Glossary
+
+- **Paradigm:** Assumptions about reality, knowledge, values, and legitimate inquiry.
+- **Positivist research:** Inquiry emphasizing observable evidence, measurement, hypothesis testing, regularity, prediction, and control.
+- **Interpretive research:** Inquiry emphasizing situated meaning, participant understanding, interaction, and contextual interpretation.
+- **Integrated method:** Coordinated use of distinct approaches to answer linked research questions.
+- **Construct:** Theoretical attribute or process represented through indicators or qualitative concepts.
+- **Operational definition:** Rule specifying how a construct is observed, measured, or identified.
+- **Sampling frame:** Operational list or procedure used to identify members of a target population.
+- **Reliability/precision:** Consistency or measurement error under specified conditions.
+- **Validity:** Degree to which evidence and theory support an intended interpretation and use or other specified inference.
+- **Internal validity:** Credibility of a causal conclusion within the studied design.
+- **External validity:** Applicability across persons, settings, treatments, outcomes, or times.
+- **Effect size:** Magnitude of a difference or relationship in interpretable units.
+- **Purposive sampling:** Selection of information-rich cases for a stated analytic purpose.
+- **Reflexivity:** Examination of how researcher position and research relations shape inquiry.
+- **Case boundary:** Limits defining what is and is not part of a case.
+- **Primary historical source:** Evidence produced in or directly connected to the period studied.
+- **Action research:** Practitioner/participant inquiry joining systematic investigation with cycles of improvement and reflection.
+- **Comparability:** Defensibility of treating concepts, indicators, or cases as sufficiently equivalent for comparison.
+- **Triangulation:** Deliberate comparison of perspectives, data, methods, or theories to test or elaborate an account.

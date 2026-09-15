@@ -1,0 +1,4 @@
+interface:
+  display_name: "陈向明教育研究方法2013"
+  short_description: "按实证、解释与综合范式设计和评估教育研究的实用流程"
+  default_prompt: "使用 $chen-xiangming-education-research-methods-2013 选择方法并设计或评估这项教育研究。"

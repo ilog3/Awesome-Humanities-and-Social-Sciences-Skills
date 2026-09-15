@@ -1,0 +1,4 @@
+interface:
+  display_name: "流动人口家庭教养质性研究"
+  short_description: "基于赵娟质性研究分析流动人口家庭教养机制与研究方法"
+  default_prompt: "使用 $migrant-family-parenting-qualitative 分析流动人口家庭教养问题，并区分研究发现、可迁移解释和适用边界。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "怀特《街角社会》"
+  short_description: "以长期参与观察、关键人物关系和群体互动结构开展城市社区民族志"
+  default_prompt: "使用 $whyte-street-corner-society 设计或分析城市社区参与观察研究，并检验非正式组织、地位、互惠与研究关系。"

@@ -1,0 +1,22 @@
+# Glossary
+
+- **Education:** Conscious social activity directly aimed at influencing human physical and psychological development, within this book's analytic boundary.
+- **Educational influence:** Developmental effect arising from an activity that may not have education as its direct aim.
+- **School education:** Education undertaken by specialized institutions and personnel with strong purpose, organization, and system.
+- **Complex open system:** An internally differentiated whole that exchanges influence, resources, and information with its environment.
+- **Educator:** Participant who undertakes responsibility for teaching or educational influence.
+- **Learner:** Participant who undertakes learning and whose development is directly at issue.
+- **Educational content:** Shared object selected and transformed through teaching and learning.
+- **Educational material conditions:** Spaces, tools, media, infrastructure, time, and other material resources entering educational activity.
+- **Compound subject:** Educator and learner understood as differently responsible but mutually conditioning active participants.
+- **Internalization or translation:** Layered transformation of general social purposes into system, school, educator, and learner-level forms; not simple passive absorption.
+- **Macro layer:** Education-system policy, structure, finance, and public purpose.
+- **Meso layer:** Institution-wide mission, organization, activity, and management.
+- **Micro layer:** Educator design and concrete teaching–learning activity.
+- **Possibility factor:** Personal or environmental condition that opens or constrains potential development.
+- **Actualizing factor:** Learner activity through which potential conditions become actual developmental change.
+- **Social function:** Education's consequences for social continuity, capability, culture, governance, production, or transformation.
+- **Individual-development function:** Education's consequences for a person's integrated capabilities, agency, identity, relationships, and life possibilities.
+- **Function displacement:** Replacement of educational purposes by a partial proxy such as scores, admission, compliance, or prestige.
+- **Relative independence:** Education's distinctive activity logic, time horizon, and capacity for feedback despite social dependence.
+- **Delayed effect:** Outcome that develops or becomes visible after a substantial interval.

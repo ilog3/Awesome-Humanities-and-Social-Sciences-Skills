@@ -1,0 +1,4 @@
+interface:
+  display_name: "科宾—施特劳斯扎根理论"
+  short_description: "用持续比较、概念化、备忘录、理论抽样、情境与过程分析生成扎根理论"
+  default_prompt: "使用 $corbin-strauss-grounded-theory 从经验资料形成概念、类属和整合性理论，并展示完整分析链。"

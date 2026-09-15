@@ -1,0 +1,4 @@
+interface:
+  display_name: "米德《萨摩亚人的成年》"
+  short_description: "用跨文化青春期研究分析社会化、同辈、家庭、人格与选择教育"
+  default_prompt: "使用 $coming-of-age-samoa-mead 从跨文化视角分析青春期、社会化或教育选择。"
